@@ -24,6 +24,7 @@ what3words:           # optional: what3words (https://what3words.com) address of
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
 {% comment %}
+
 HEADER
 
 Edit the values in the block above to be appropriate for your workshop.
